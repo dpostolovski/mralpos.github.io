@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'uncodeicon';
-  src: url('../fonts/uncode-icons.eot');
-  src: url('../fonts/uncode-icons.eot?#iefix') format('embedded-opentype'), url('../fonts/uncode-icons.woff') format('woff'), url('../fonts/uncode-icons.ttf') format('truetype'), url('../fonts/uncode-icons.svg#uncodeicon') format('svg');
+  src: url('/wp-content/themes/uncode/library/fonts/uncode-icons.eot');
+  src: url('/wp-content/themes/uncode/library/fonts/uncode-icons.eot#iefix') format('embedded-opentype'), url('/wp-content/themes/uncode/library/fonts/uncode-icons.woff') format('woff'), url('/wp-content/themes/uncode/library/fonts/uncode-icons.ttf') format('truetype'), url('/wp-content/themes/uncode/library/fonts/uncode-icons.svg#uncodeicon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
